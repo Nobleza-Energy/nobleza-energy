@@ -7,6 +7,17 @@ Consultants in Rock Formation Evaluation with a focus on Geological and Geophysi
 <!-- Organization Stats (Shields.io is more reliable for Orgs than readme-stats) -->
 ![GitHub Org's stars](https://img.shields.io/github/stars/nobleza-energy?style=social)
 
+
+<!-- Organization Stars Badge -->
+![Organization Stars](https://img.shields.io/github/stars/nobleza-energy?style=social)
+
+<!-- Website Status / Link -->
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fnobleza-energy&label=nobleza-energy)](https://github.com/nobleza-energy)
+
+<!-- Number of Public Repositories (requires a custom endpoint or manual update, 
+but Shields.io can track specific top repos) -->
+
+
 ### Open source projects
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
