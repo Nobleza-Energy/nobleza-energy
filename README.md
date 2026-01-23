@@ -4,7 +4,7 @@ Consultants in Rock Formation Evaluation with a focus on Geological and Geophysi
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nobleza-energy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobleza-energy-free&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobleza-energy&show_icons=true&theme=radical)
 
 
 ### Open source projects
