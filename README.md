@@ -1,8 +1,8 @@
-# 👋 Hello there! I'm Maria Fernanda
+# 👋 Hello there! We are Nobleza Energy!
 
 Consultants in Rock Formation Evaluation with a focus on Geological and Geophysical Integrative Modelling for Subsurface Resources and Phenomena - Multienvironment and Multiresource Digital Expertise
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=mariafgg-free)
+![Profile View Counter](https://komarev.com/ghpvc/?username=nobleza-energy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariafgg-free&show_icons=true&theme=radical)
 
