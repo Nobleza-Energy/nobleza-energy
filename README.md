@@ -18,6 +18,6 @@ but Shields.io can track specific top repos) -->
 
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 |-------------|---------|----------|-----------|------------------|
-| [[LASMnemonicsID]([https://github.com/Nobleza-Energy/LASMnemonicsID](https://github.com/Nobleza-Energy/LASMnemonicsID)](https://github.com/Nobleza-Energy/LASMnemonicsID)) | ![Stars](https://img.shields.io/github/stars/nobleza-energy/LASMnemonicsID?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/Nobleza-Energy/LASMnemonicsID?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/Nobleza-Energy/LASMnemonicsID?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/Nobleza-Energy/LASMnemonicsID?style=flat-square&labelColor=343b41) |
+| [LASMnemonicsID]([https://github.com/Nobleza-Energy/LASMnemonicsID](https://github.com/Nobleza-Energy/LASMnemonicsID)](https://github.com/Nobleza-Energy/LASMnemonicsID)) | ![Stars](https://img.shields.io/github/stars/nobleza-energy/LASMnemonicsID?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/Nobleza-Energy/LASMnemonicsID?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/Nobleza-Energy/LASMnemonicsID?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/Nobleza-Energy/LASMnemonicsID?style=flat-square&labelColor=343b41) |
 
 
